@@ -1,6 +1,6 @@
 # Hi there, I'm Mihail! 👋
 
-<div align="center">
+<div align="center" height='300'>
   <!-- Typing Effect -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&size=40&width=635&font=Inter&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing Animation" width='500' height="40" padding='5' margin='5' />
   
