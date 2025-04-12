@@ -11,6 +11,7 @@
 
 ### 🔥 My Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=contribs&line_height=24)
+</div>
 
 ### 🛠️ Tech Stack
 #### **Languages**
@@ -96,5 +97,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="30" height="30" title="Vite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" title="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="30" height="30" title="WordPress" />
-</div>
 </div>
