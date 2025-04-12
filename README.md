@@ -13,7 +13,7 @@
 
 ### 🛠️ Tech Stack
 #### **Languages**
-<div align='center' style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="24" height="24" title="R" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" height="24" title="JavaScript" />
@@ -26,7 +26,7 @@
 </div>
 
 #### **Frameworks**
-<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="24" height="24" title="Django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="24" height="24" title="Angular" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="24" height="24" title="Flask" />
@@ -38,7 +38,7 @@
 </div>
 
 #### **Databases**
-<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchdb/couchdb-original.svg" width="24" height="24" title="CouchDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="24" height="24" title="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24" height="24" title="MySQL" />
@@ -46,7 +46,7 @@
 </div>
 
 #### **DevOps & Cloud**
-<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="24" height="24" title="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="24" height="24" title="Kubernetes" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="24" height="24" title="Helm" />
@@ -54,20 +54,20 @@
 </div>
 
 #### **Game Dev**
-<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="24" height="24" title="Unity" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="24" height="24" title="Unreal Engine" />
 </div>
 
 #### **Design & 3D**
-<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="24" height="24" title="Blender" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="24" height="24" title="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="24" height="24" title="Canva" />
 </div>
 
 #### **Tools & Software**
-<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="24" height="24" title="Android Studio" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="24" height="24" title="Babel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" width="24" height="24" title="DataGrip" />
