@@ -1,5 +1,5 @@
 # Hi there, I'm Mihail! 👋
-<img src='Swimming-swan.gif' alt='animated swimming swan'/>
+<img src='./Swan-swimming.gif' alt='animated swimming swan'/>
 <div align="center" style="padding: 20px 0;background-color: #DEF53D; margin-bottom: 30px;">
   <!-- Typing Effect -->
     <div style="height: 60px; display: flex; align-items: center; justify-content: center; margin-bottom: 20px;">
