@@ -1,5 +1,4 @@
 # Hi there, I'm Mihail! 👋
-<img src='./Swan-swimming.gif' alt='animated swimming swan'/>
 <div align="center" style="padding: 20px 0;background-color: #DEF53D; margin-bottom: 30px;">
   <!-- Typing Effect -->
     <div style="height: 60px; display: flex; align-items: center; justify-content: center; margin-bottom: 20px;">
@@ -10,7 +9,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&row=1&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" height="120" />
 
 ### 🔥 My Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=contribs&line_height=24)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coffee4urhead&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=contribs&line_height=24)
 </div>
 
 ### 🛠️ Tech Stack
