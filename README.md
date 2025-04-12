@@ -1,6 +1,7 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Mihail! 👋
 
 <div align="center">
+  <!-- First Typing Effect (Current One) -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing Animation" />
   
   ![Animated Banner](https://github.com/yourusername/yourusername/blob/main/banner.gif?raw=true)
@@ -25,4 +26,7 @@
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=I am a designer, pc enthusiast and a pc builder/programmer)
+<!-- New Typing Effect (Cycling Through Roles) -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1500&color=22D3EE&width=435&lines=I+am+a+Programmer;I+am+a+PC+Builder;I+am+a+Website+Designer;I+am+a+Tech+Enthusiast" alt="Dynamic Roles Typing Animation" />
+</div>
