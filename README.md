@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Typing Effect -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&size=40&width=635&font=Inter&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing Animation" height="28" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&size=40&width=635&font=Inter&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing Animation" height="40" />
   
   <!-- GitHub Trophies (compact) -->
   <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&row=1&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" height="120" />
