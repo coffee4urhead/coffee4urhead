@@ -13,7 +13,7 @@
 
 ### 🛠️ Tech Stack
 #### **Languages**
-<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+<div align='center' style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="24" height="24" title="R" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" height="24" title="JavaScript" />
