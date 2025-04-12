@@ -8,7 +8,6 @@
   
   <!-- GitHub Trophies (compact) -->
   <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&row=1&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" height="120" />
-</div>
 
 ### 🔥 My Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=contribs&line_height=24)
@@ -97,4 +96,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="30" height="30" title="Vite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" title="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="30" height="30" title="WordPress" />
+</div>
 </div>
